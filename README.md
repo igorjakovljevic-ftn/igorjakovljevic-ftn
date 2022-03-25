@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+/
 <!--
 **igorjakovljevic-ftn/igorjakovljevic-ftn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Igor, a 4th year Data Science student at the Faculty of Technical Sciences. Here you can see all of the projects I have worked on and am currently working on! Looking to get hired.
