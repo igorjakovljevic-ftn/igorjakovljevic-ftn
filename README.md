@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Igor, a 4th year Data Science student at the Faculty of Technical Sciences. Here you can see all of the projects I have worked on and am currently working on! Looking to get hired.
+I'm Igor, a 4th year Data Science student at the Faculty of Technical Sciences. Here you can see all of the projects I have worked on and am currently working on! Looking to get hired. You can contact me at any time if you have questions about any of my projects.
 
-📞 You can reach me on [Linkedin](https://www.linkedin.com/in/igorjakovljevicftn/)
+📞 Reach me on [Linkedin](https://www.linkedin.com/in/igorjakovljevicftn/)
